@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Zmiana na lepsze :) - a moze na gorsze heh:) -- zmiana3 --zmiana4
+=======
+zmiany ponownie
+Zmiana na lepsze :) - a moze na gorsze heh:)
+zmiana cw 3 - damian
+zmiana zadanie 5
+
+>>>>>>> feature_branch
